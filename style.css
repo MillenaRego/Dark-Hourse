@@ -59,19 +59,19 @@ p{
     justify-content: center;
 }
 .image1{
-    width: 417px;
-    height: 625px;
-    border: 5px solid black;
+    width: 429px;
+    height: 638px;
+    border: 6px solid black;
 }
 .image2{
-    width: 417px;
-    height: 625px;
-    border: 5px solid black;
+    width: 429px;
+    height: 638px;
+    border: 6px solid black;
 }
 .image3{
-    width: 417px;
-    height: 625px;
-    border: 5px solid black;
+    width: 429px;
+    height: 638px;
+    border: 6px solid black;
 }
 .image-container{
     display: flex;
@@ -85,7 +85,10 @@ p{
 .pagina2{
     overflow: auto;
     text-align: center;
+
 }
 .footer img{
     height: 500px;
+    border: 6px solid black;
+    
 }
